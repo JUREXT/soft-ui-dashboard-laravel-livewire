@@ -5,7 +5,7 @@
             aria-hidden="true" id="iconSidenav"></i>
         <a class="align-items-center d-flex m-0 navbar-brand text-wrap" href="{{ route('dashboard') }}">
             <img src="../assets/img/logo-ct.png" class="navbar-brand-img h-100" alt="...">
-            <span class="ms-3 font-weight-bold">Soft UI Dashboard Laravel Livewire</span>
+            <span class="ms-3 font-weight-bold">Bostaurus</span>
         </a>
     </div>
     <hr class="horizontal dark mt-0">
@@ -41,7 +41,7 @@
             </li>
 
             <li class="nav-item mt-2">
-                <h6 class="ps-4 ms-2 text-uppercase text-xs font-weight-bolder opacity-6">Laravel Examples</h6>
+                <h6 class="ps-4 ms-2 text-uppercase text-xs font-weight-bolder opacity-6">EXAMPLE SIDE SECTION 1</h6>
             </li>
             <li class="nav-item">
                 <a class="nav-link {{ Route::currentRouteName() == 'user-profile' ? 'active' : '' }}"
@@ -87,8 +87,9 @@
             </li>
 
             <li class="nav-item mt-2">
-                <h6 class="ps-4 ms-2 text-uppercase text-xs font-weight-bolder opacity-6">Example pages</h6>
+                <h6 class="ps-4 ms-2 text-uppercase text-xs font-weight-bolder opacity-6">Example Side Section 2</h6>
             </li>
+
             <li class="nav-item">
                 <a class="nav-link {{ Route::currentRouteName() == 'tables' ? 'active' : '' }}"
                     href="{{ route('tables') }}">
@@ -145,7 +146,7 @@
                     <span class="nav-link-text ms-1">Billing</span>
                 </a>
             </li>
-            
+
 
             <li class="nav-item">
                 <a class="nav-link {{ Route::currentRouteName() == 'profile' ? 'active' : '' }}"

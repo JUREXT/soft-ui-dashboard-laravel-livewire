@@ -1,15 +1,3 @@
-# [Soft UI Dashboard Laravel Livewire](https://soft-ui-dashboard-laravel-livewire.creative-tim.com/login)
-
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-dashboard-laravel-livewire.svg)](https://github.com/creativetimofficial/soft-ui-dashboard-laravel-livewire/issues?q=is%3Aopen+is%3Aissue) 
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard-laravel-livewire.svg)](https://github.com/creativetimofficial/soft-ui-dashboard-laravel-livewire/issues?q=is%3Aissue+is%3Aclosed)
-
-
-*Frontend version*: Soft UI Dashboard v1.0.0. More info at https://www.creative-tim.com/product/soft-ui-dashboard-laravel-livewire/?ref=sudl-readme 
-
-[<img src="https://s3.amazonaws.com/creativetim_bucket/products/492/original/soft-ui-dashboard-laravel-livewire.jpg" width="100%" />](https://www.creative-tim.com/live/soft-ui-dashboard-laravel-livewire)
-
 ## Free Frontend Web App for Laravel with Livewire & Alpine.js
 What happens when you combine Soft UI, one of the hottest design trends right now, and Laravel?  We've partnered with [UPDIVISION](https://updivision.com/) to create the ultimate design & development toolbox. 
 
@@ -78,24 +66,6 @@ And Laravel: https://laravel.com/docs/9.x/installation
 Register a user or login with default user **admin@softui.com** and password **secret** from your database and start testing (make sure to run the migrations and seeders for these credentials to be available).
 
 Besides the dashboard, the auth pages, the billing and table pages, there is also has an edit profile page. All the necessary files are installed out of the box and all the needed routes are added to `routes/web.php`. Keep in mind that all of the features can be viewed once you login using the credentials provided or by registering your own user. 
-
-## Versions
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=sudl-readme)
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=sudl-readme)
-
-| HTML | Laravel Livewire |
-| --- | --- |
-| [![HTML](https://s3.amazonaws.com/creativetim_bucket/products/487/thumb/opt_sdp_thumbnail.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard) | [![Laravel](https://s3.amazonaws.com/creativetim_bucket/products/492/thumb/soft-ui-dashboard-laravel-livewire.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard-laravel-livewire)  | 
-
-## Demo
-| Register | Login | Dashboard |
-| --- | --- | ---  |
-| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-laravel/Register.png" width="322" />](https://soft-ui-dashboard-laravel-livewire.creative-tim.com/sign-up) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-laravel/Login.png?raw=true" width="322" />](https://soft-ui-dashboard-laravel-livewire.creative-tim.com/login)  | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-laravel/Dashboard.png?raw=true" width="322" />](https://soft-ui-dashboard-laravel-livewire.creative-tim.com/dashboard)
-
-| Forgot Password Page | Reset Password Page | Profile Page  |
-| --- | --- | ---  |
-| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-laravel/Forgot-password.png" width="320" />](https://soft-ui-dashboard-laravel-livewire.creative-tim.com/login/forgot-password)  | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-laravel/Login.png" width="312" />](https://soft-ui-dashboard-laravel-livewire.creative-tim.com/) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-laravel/Profile.png" width="330" />](https://soft-ui-dashboard-laravel-livewire.creative-tim.com/laravel-user-profile)
-[View More](https://soft-ui-dashboard-laravel-livewire.creative-tim.com/dashboard)
 
 ## Documentation
 The documentation for the Soft UI Dashboard Laravel Livewire is hosted at our [website](https://soft-ui-dashboard-laravel-livewire.creative-tim.com/documentation/bootstrap/overview/soft-ui-dashboard/index.html).
@@ -257,51 +227,3 @@ We use GitHub Issues as the official bug tracker for the Soft UI Dashboard. Here
 1. Make sure that you are using the latest version of the Soft UI Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/soft-ui-dashboard-laravel-livewire?ref=readme-sudl).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Licensing
-- Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-sudl)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudl)
-
-## Useful Links
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=sudl-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=sudl-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=sudl-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=sudl-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles??ref=sudl-readme)
-
-### Social Media
-
-### Creative Tim
-Twitter: <https://twitter.com/CreativeTim?ref=sudl-readme>
-
-Facebook: <https://www.facebook.com/CreativeTim?ref=sudl-readme>
-
-Dribbble: <https://dribbble.com/creativetim?ref=sudl-readme>
-
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=sudl-readme>
-
-### Updivision:
-
-Twitter: <https://twitter.com/updivision?ref=sudl-readme>
-
-Facebook: <https://www.facebook.com/updivision?ref=sudl-readme>
-
-Linkedin: <https://www.linkedin.com/company/updivision?ref=sudl-readme>
-
-Updivision Blog: <https://updivision.com/blog/?ref=sudl-readme>
-
-## Credits
-
-- [Creative Tim](https://creative-tim.com/?ref=sudl-readme)
-- [UPDIVISION](https://updivision.com)
-
-
-
-
-
-
-
