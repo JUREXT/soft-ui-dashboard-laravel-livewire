@@ -37,18 +37,7 @@
             </div>
             <div class="card-body pt-4 p-3">
 
-                @if ($showDemoNotification)
-                    <div wire:model="showDemoNotification" class="mt-3  alert alert-primary alert-dismissible fade show"
-                         role="alert">
-                                        <span class="alert-text text-white">
-                                            {{ __('You are in a demo version, you can\'t update the profile.') }}</span>
-                        <button wire:click="$set('showDemoNotification', false)" type="button" class="btn-close"
-                                data-bs-dismiss="alert" aria-label="Close">
-                        </button>
-                    </div>
-                @endif
-
-                @if ($showSuccesNotification)
+                @if ($this->showSuccesNotification)
                     <div wire:model="showSuccesNotification"
                          class="mt-3 alert alert-primary alert-dismissible fade show" role="alert">
                         <span class="alert-icon text-white"><i class="ni ni-like-2"></i></span>
